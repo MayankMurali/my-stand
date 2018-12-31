@@ -1,0 +1,2 @@
+Online Potpurri
+The aim behind the project is to build a website where people can login to their account and write reviews about a movie or a book or T.V. show. It also is a platform where people can interact and know more about these entertainment which they like. In addition, a search bar would also be included to help navigate through different types of genres for the above mentioned types of entertainment.
